@@ -5,5 +5,12 @@ if a>b and a>c:
     print(a)
 elif b>a and b>c:
     print(b)
+elif c>a and c>b:
+    print(c)
+elif a==b or b==a:
+    print(a)
+elif b==c or c==b:
+    print(b)
 else:
     print(c)
+    
