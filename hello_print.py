@@ -1,4 +1,5 @@
+#s1
 n=int(input())
-a=input()
+a="Hello"
 for i in range(n):
   print(a)
