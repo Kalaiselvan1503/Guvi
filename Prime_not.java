@@ -1,4 +1,4 @@
-#prime
+//prime
 import java.util.*;
 public class Prime_not 
 {
