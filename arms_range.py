@@ -13,7 +13,7 @@ for num in range(l, u + 1):
        temp //= 10
    if num == sum:
        m.append(num)
-       print(m)
+       
 for k in range(0,len(m)-1):
   print(m[k],end=" ")
 print(m[len(m)-1])
