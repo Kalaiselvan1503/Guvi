@@ -1,6 +1,6 @@
 //prime
 import java.util.*;
-public class Prime_not 
+class Prime_not 
 {
 public static void main(String[] args) 
 {
