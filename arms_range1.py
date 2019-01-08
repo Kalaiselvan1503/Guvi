@@ -3,7 +3,7 @@ l,u=input().split()
 l=int(l)
 u=int(u)
 m=[]
-for num in range(l, u + 1):
+for num in range(l, u):
    order = len(str(num))
    sum = 0
    temp = num
