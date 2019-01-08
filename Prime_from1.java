@@ -1,5 +1,5 @@
 import java.util.*;
-class Prime_from{
+class Prime_from1{
     public static void main(String[] args) {
           Scanner a=new Scanner(System.in);
           int n=a.nextInt();
@@ -23,7 +23,7 @@ class Prime_from{
                               
                           }
                           else
-                          System.out.println(n);
+                          System.out.print(n+" ");
                       }
                       ++n;
                       
