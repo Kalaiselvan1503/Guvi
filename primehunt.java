@@ -1,4 +1,4 @@
-#hsdjg
+//dfhkldk
 import java.util.*;
 class Prime1{
     public static void main(String[] args) {
